@@ -1,6 +1,4 @@
-use std::cell;
-
-use nannou::{lyon::geom::euclid::point2, prelude::*};
+use nannou::prelude::*;
 
 pub struct Model {
     // Store the state of your application here
